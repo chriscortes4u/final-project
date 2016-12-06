@@ -1,0 +1,21 @@
+
+"associates":[
+{
+  "id": 1,
+  "firstName":"john",
+  "lastName": "doe",
+  "phone": "845-745-7693",
+  "address":"mt.p",
+  "dob":"10-3-06",
+  "email":"jd@yahoo.com"
+},
+{
+  "id": 2,
+  "firstName":"Billy",
+  "lastName": "Bad",
+  "phone": "856-435-7667",
+  "address":"mt.p",
+  "dob":"10-22-76",
+  "email":"bb@yahoo.com"
+}
+]
